@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_542215_innovatio_innovate</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-03 23:40:34</sys_created_on>
+        <sys_id>ae0729451b9020107300a9b4bd4bcbb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_542215_innovatio_innovate</sys_name>
+        <sys_package display_value="Innovation" source="x_542215_innovatio">1db5e9c11b9020107300a9b4bd4bcb26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovation">1db5e9c11b9020107300a9b4bd4bcb26</sys_scope>
+        <sys_update_name>ua_table_licensing_config_ae0729451b9020107300a9b4bd4bcbb6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-03 23:40:34</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>
